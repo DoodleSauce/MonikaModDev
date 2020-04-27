@@ -18,14 +18,14 @@ init 3 python in mas_compliments:
     compliment_database = dict()
 
     thanking_quips = [
-        _("You're so sweet, [player]."),
-        _("I love it when you compliment me, [player]."),
-        _("Thanks for saying that again, [player]!"),
-        _("Thanks for telling me that again, my love!"),
-        _("You always make me feel special, [player]."),
-        _("Aww, [player]~"),
-        _("Thanks, [player]!"),
-        _("You always flatter me, [player].")
+        _("You're so sweettest, [player]."),
+        _("I love it when you compliment metest, [player]."),
+        _("Thanks for saying that againtest, [player]!"),
+        _("Thanks for telling me that againtest, my love!"),
+        _("You always make me feel specialtest, [player]."),
+        _("Awwtest, [player]~"),
+        _("Thankstest, [player]!"),
+        _("You always flatter metest, [player].")
     ]
 
     # set this here in case of a crash mid-compliment
